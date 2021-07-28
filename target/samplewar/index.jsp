@@ -1,3 +1,1 @@
-this is my samplewar file SSS
-SOLENKI SRIKANTH
-SOLENKI SINDHUJA
+this is my samplewar file 
